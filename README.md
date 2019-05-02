@@ -1,2 +1,2 @@
 # FreeAds
-Projet réalisé avec Larevel
+Projet réalisé avec Laravel
